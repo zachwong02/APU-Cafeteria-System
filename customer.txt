@@ -1,0 +1,10 @@
+Wong Zhi Zhen 123 wong@mail.com 0123456789 457.10
+Dharshan 123 dharshan@mail.com 0123456789 366.00
+Kau Guan Kiat 123 kauguankiat@mail.com 0123456789 436.60
+Chun Seng 123 chunseng@mail.com 0123456789 575.40
+Xiao Thong 123 xt@mail.com 0123456789 70.60
+Annie 123 annie@mail.com 0123456789 495.00
+Lim Chee Hui 123 limcheehui@mail.com 0123456789 741.00
+Stan Smith 123 stansmith@mail.com 0123456789 211.20
+Roger Smith 123 rogersmith@mail.com 0123456789 837.50
+John Hammond 123 john@mail.com 0123456789 155.10

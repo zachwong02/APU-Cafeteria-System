@@ -1,0 +1,160 @@
+Appam 12.00
+Samosa 12.00
+Bhajji 12.00
+Youtiao 12.00
+Ngo hiang 12.00
+Phong pneah 12.00
+Popiah 12.00
+Otak-otak 12.00
+Banana leaf rice 12.00
+Biryani 12.00
+Fish head curry 12.00
+Mee Goreng Mamak 12.00
+Mee rebus 12.00
+Nasi Kandar 12.00
+Pasembur 12.00
+South Asian Pickles 12.00
+Bak kut teh 12.00
+Silver needle noodles 12.00
+Char Koay Kak 12.00
+Char koay teow 12.00
+Claypot chicken rice 12.00
+Duck soup noodles 12.00
+Fried 12.00
+Hainanese chicken rice 12.00
+Hokkien mee 12.00
+Lor mee 12.00
+Wonton Mee 12.00
+Asam laksa 12.00
+Almond cream 12.00
+Cendol 12.00
+Dou hua 12.00
+Ice kachang 12.00
+Rojak 12.00
+Almond cream 12.00
+Cendol 12.00
+Dou hua 12.00
+Ice kachang 12.00
+Rojak 12.00
+Red tortoise cake 12.00
+Apam balik 12.00
+Bahulu 12.00
+Cucur 12.00
+Curry puff 12.00
+Cincin 12.00
+Dadar gulung 12.00
+Jelurut 12.00
+Sapit 12.00
+Kochi 12.00
+Niangao 12.00
+Kueh Pie Tee 12.00
+Klepon 12.00
+Taro cake 12.00
+Pineapple tart 12.00
+Pinjaram 12.00
+Kueh tutu 12.00
+Seri Muka 12.00
+Wajid 12.00
+Amplang 12.00
+Bahar 12.00
+Beaufort Mee 12.00
+Bosou 12.00
+Hinava 12.00
+Lihing 12.00
+Linongot 12.00
+Nasi kombos 12.00
+Nonsoom bambangan 12.00
+Ngiu chap 12.00
+Piaren Ah Manuk 12.00
+Nuba laya 12.00
+Pinasakan 12.00
+Pinjaram 12.00
+Sagol 12.00
+Sang nyuk mian 12.00
+Sinalau 12.00
+Sinamu Baka 12.00
+Tinonggilan 12.00
+Tompek 12.00
+Tuaran mee 12.00
+Tuhau 12.00
+Belacan bihun 12.00
+Bubur pedas 12.00
+Daun ubi tumbuk 12.00
+Ikan terubuk masin 12.00
+Kasam ensabi 12.00
+Kolo mee 12.00
+Laksa Sarawak 12.00
+Manok kacangma 12.00
+Manok pansoh 12.00
+Nasi goreng dabai 12.00
+Nuba laya 12.00
+Sup Terung Dayak 12.00
+Tebaloi 12.00
+Three layer tea 12.00
+Tuak 12.00
+Umai 12.00
+White Lady 12.00
+Acar 12.00
+Laksa 12.00
+Ayam buah keluak 12.00
+Ayam 12.00
+Babi assam 12.00
+Enche Kabin 12.00
+Itik Tim 12.00
+Jiu Hu Char 12.00
+Kari Kapitan 12.00
+Kerabu Bee Hoon 12.00
+Kiam Chye Boey 12.00
+Laksa 12.00
+Masak titik 12.00
+Nasi kunyit 12.00
+Nyonya 12.00
+Cap cai 12.00
+Otak-otak 12.00
+Perut ikan 12.00
+Kueh Pie Tee 12.00
+Roti babi 12.00
+Seh Bak 12.00
+Ter Thor T 12.00
+Ambilla 12.00
+Caldu Pescator 12.00
+Devil 12.00
+Curry Seku 12.00
+Chicken pie 12.00
+Feng 12.00
+Pang Susi 12.00
+Ikan Bakar 12.00
+Semur 12.00
+Soy Limang 12.00
+Agar agar 12.00
+Ais kacang 12.00
+Aiskrim potong 12.00
+Batik cake 12.00
+Bolu cocu 12.00
+Bubur cha cha 12.00
+Bubur kacang hijau 12.00
+Bubur ketan hitam 12.00
+Cendol 12.00
+Barfi 12.00
+Dadiah 12.00
+Dodol 12.00
+Halva 12.00
+Hinompuka 12.00
+Keria Gula Melaka 12.00
+Laddu 12.00
+Leng Chee Kang 12.00
+Matterhorn 12.00
+Mooncake 12.00
+Nanggiu 12.00
+Pandan cake 12.00
+Kheer 12.00
+Pengat 12.00
+Pisang goreng 12.00
+Puding Diraja 12.00
+Sago pudding 12.00
+Sarawak layer cake 12.00
+Sugee cake 12.00
+Tangyuan 12.00
+Tapai 12.00
+Douhua 12.00
+UFO tart 12.00

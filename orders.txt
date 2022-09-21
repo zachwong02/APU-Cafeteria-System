@@ -1,0 +1,119 @@
+ORD-0 
+145.20 
+2022-09-02T13:25:27.611505 
+Ready 
+Accepted 
+Appam 12.00 3 
+Mee Goreng Mamak 12.00 4 
+Biryani 12.00 4 
+Wong Zhi Zhen
+ORD-1 
+184.80 
+2022-09-02T13:26:21.790422 
+Ready 
+Accepted 
+Phong pneah 12.00 4 
+Biryani 12.00 10 
+Wong Zhi Zhen
+ORD-2 
+124.30 
+2022-09-02T13:26:38.396090 
+Ready 
+Accepted 
+Americano 13.00 5 
+Nasi Kandar 12.00 4 
+Wong Zhi Zhen
+ORD-13 
+26.40 
+2022-09-02T13:32:30.755478 
+Not Ready 
+Accepted 
+Mee Goreng Mamak 12.00 2 
+Wong Zhi Zhen
+ORD-14 
+57.20 
+2022-09-02T13:32:40.113995 
+Ready 
+Accepted 
+Caffè macchiato 13.00 4 
+Wong Zhi Zhen
+ORD-15 
+66.00 
+2022-09-02T13:32:47.651488 
+Ready 
+Accepted 
+Otak-otak 12.00 5 
+Wong Zhi Zhen
+ORD-9 
+57.20 
+2022-09-02T13:29:41.480229 
+Not Ready 
+Pending 
+Red eye 13.00 4 
+Kau Guan Kiat
+ORD-10 
+211.20 
+2022-09-02T13:29:52.659761 
+Not Ready 
+Pending 
+Youtiao 12.00 16 
+Kau Guan Kiat
+ORD-11 
+143.00 
+2022-09-02T13:30:08.435446 
+Not Ready 
+Accepted 
+Cappuccino 13.00 10 
+Kau Guan Kiat
+ORD-6 
+143.00 
+2022-09-02T13:28:36.086976 
+Not Ready 
+Accepted 
+Latte 13.00 10 
+Chun Seng
+ORD-7 
+105.60 
+2022-09-02T13:29:05.138472 
+Not Ready 
+Pending 
+Ngo hiang 12.00 4 
+Banana leaf rice 12.00 4 
+Chun Seng
+ORD-8 
+66.00 
+2022-09-02T13:29:14.437891 
+Not Ready 
+Accepted 
+Youtiao 12.00 5 
+Chun Seng
+ORD-5 
+81.40 
+2022-09-02T13:28:14.573548 
+Not Ready 
+Pending 
+Iced coffee 13.00 2 
+Youtiao 12.00 4 
+Xiao Thong
+ORD-3 
+118.80 
+2022-09-02T13:27:13.349405 
+Ready 
+Accepted 
+Appam 12.00 5 
+Tompek 12.00 4 
+Stan Smith
+ORD-12 
+214.50 
+2022-09-02T13:30:46.760559 
+Not Ready 
+Pending 
+Black Russian 13.00 15 
+Roger Smith
+ORD-4 
+185.90 
+2022-09-02T13:27:32.874232 
+Ready 
+Accepted 
+Ristretto 13.00 13 
+John Hammond
