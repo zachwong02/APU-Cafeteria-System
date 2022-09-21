@@ -1,0 +1,6 @@
+Email:shan@gmail
+Password:test
+Username:shan
+Country:test
+State:test
+Phone No:01234567
